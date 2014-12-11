@@ -21,6 +21,12 @@ class CombineData
     number_of_girls.times { return_val << return_random_girl }
 
     return_val
+
+    File.open("Cloned_Users.txt", "w+") do |f|
+      return_val.each do |item|
+       f.write("#{item}\n") 
+     end
+    end
   end
 
   def files

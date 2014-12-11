@@ -1,6 +1,6 @@
 # CloneFactory
 
-TODO: Write a gem description
+This gem creates a number of fake users with real first names, last names, address, city, zip, and area code 
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+  $ clone_factory
+
+  This will generate users for you to use. 
+
 
 ## Contributing
 
