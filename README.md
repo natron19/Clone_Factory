@@ -2,6 +2,8 @@
 
 This gem creates a number of fake users with real first names, last names, address, city, zip, and area code 
 
+[![Build Status](https://travis-ci.org/natron19/Clone_Factory.svg?branch=master)](https://travis-ci.org/natron19/Clone_Factory)
+
 ## Installation
 
 Add this line to your application's Gemfile:
